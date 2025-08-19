@@ -15,7 +15,7 @@
   - [ ] chart list
   - [ ] information page
 
-# `vX.X.X-X` (unknown version, but planned)
+# future plans
 - arc notes
 - local multiplayer
 - online multiplayer
