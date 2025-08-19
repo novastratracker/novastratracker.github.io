@@ -1,6 +1,6 @@
 > the next milestone is `v0.5-demo`, which marks the first beta release of Novastra
 
-# `v0.3-demo` (next)
+### `v0.3-demo` (next)
 - [x] replay file format (.nre)
 - [x] (linux) save replays to file
 - [ ] (windows) save replays to file
@@ -15,7 +15,7 @@
   - [ ] chart list
   - [ ] information page
 
-# future plans
+### future plans
 - arc notes
 - local multiplayer
 - online multiplayer
