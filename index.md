@@ -1,3 +1,8 @@
+<img width="512" height="103" alt="npt" src="https://github.com/user-attachments/assets/1bfbe00e-a49a-4a9f-9e30-03043d2e78a0" />
+
+[get the game](https://pyrama.itch.io/nova)  
+[get involved](https://discord.gg/67cn2gWutY)
+
 > the next milestone is `v0.5-demo`, which marks the first beta release of Novastra
 > 
 > do note that not all items are shown;
